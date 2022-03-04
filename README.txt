@@ -5,7 +5,7 @@
     - 프로젝트에서 사용하는 모듈(라이브러리)
 
 
-2. 의존성 (Dependency)
+2. 의존성 (Dependency)   - npm 모듈을 사용하는 방식에 대해서 공부
     - 개발 하는 프로젝트(애플리케이션, 패키지)에서 설치하고 사용하는 패키지
     - 일반 의존성
         개발하고 있는 프로젝트에서 사용하는 패키지로 꼭 배포에 포함
@@ -45,6 +45,20 @@
         - 원격 배포
         - 로컬 배포
         
+
+
+6. npmjs.com의 npm registry에 패키지 배포하기(원격배포)
+
+7. helloweb-ex01: 웹 애플리케이션 만들어보기(express 프레임 워크 x)
+    1) app01: http: core module 기반
+    2) app02: http, fs: core module  기반
+    3) app03: conect, serve-static: npm package 기반
+    4) app04: connect, serve-static, connect-route : npm package 기반
+    5) 
+
+8. helloweb-ex03: 웹 애플리케이션 만들어보기(express 프레임워크)
+
+
 
 4.  Node Project(BE/FE) 생성
 
